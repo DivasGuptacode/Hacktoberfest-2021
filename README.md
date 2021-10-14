@@ -5,7 +5,7 @@
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
-git clone https://github.com/your-username/HacktoberFest2021.git
+git clone https://github.com/your-username/Hacktoberfest-2021.git
 ```
 * change the present working directory
 ```markdown
